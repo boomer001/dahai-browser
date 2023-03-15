@@ -134,7 +134,7 @@ app快捷一键返回,比如一键返回微信,名称能编辑
 ## 7. 国内应用市场对个人APP开发者友好度评测
 记录一下自己上架的经历:
 
-
+https://gitee.com/boomer001/dahai-browser/blob/master/app-market-evaluate.md
 
 
  
