@@ -15,6 +15,10 @@
 <div align="left"><img src="https://cdn.dahai123.top/dhb/pic/1_8_1t.jpg" width="40%"></div>
 仅支持android8以上手机
 
+喜欢知乎版评测,点这里,知乎需要登录才能看
+https://zhuanlan.zhihu.com/p/597687001
+
+
 >
 
 **chatGPT导航,大海浏览器官网,收录60个chatGPT,持续更新**
@@ -85,7 +89,7 @@ app快捷一键返回,比如一键返回微信,名称能编辑
 
 *****
 
-## 4. 无图模式--对抗网页广告神器
+## 4. 无图模式--屏蔽网页广告
 
 无图模式有2种
 
