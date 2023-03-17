@@ -16,7 +16,7 @@
 仅支持android8以上手机
 
 喜欢知乎版评测,点这里,知乎需要登录才能看
-https://zhuanlan.zhihu.com/p/597687001
+
 
 
 >
