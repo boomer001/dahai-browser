@@ -14,7 +14,7 @@ https://zhuanlan.zhihu.com/p/608807504
 不收集用户信息,没有新闻/视频等内容推送,文件仅3.8M
 
 
-**chatGPT导航,大海浏览器官网,收录60个chatGPT,持续更新**
+**chatGPT导航,大海浏览器官网,收录60个chatGPT,不要梯子**
 
 [https://www.dahai123.top/](https://www.dahai123.top/) 
 
