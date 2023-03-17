@@ -16,7 +16,7 @@ https://zhuanlan.zhihu.com/p/608807504
 
 **chatGPT导航,大海浏览器官网,收录60个chatGPT,持续更新**
 
-[https://www.dahai123.top/](https://www.dahai123.top/?_blank)
+[https://www.dahai123.top/](https://www.dahai123.top/){target="_blank"}
 
 
 大海浏览器官方版下载|123pan
