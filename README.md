@@ -2,7 +2,7 @@
 
 大海浏览器是一款android手机浏览器,
 
-**集成数个免费chatGPT**
+**集成数个免费chatGPT,不要梯子**
 
 **半秒启动无广告 , 简单/直接/方便/小**
 
@@ -21,7 +21,7 @@ https://zhuanlan.zhihu.com/p/597687001
 
 >
 
-**chatGPT导航,大海浏览器官网,收录60个chatGPT,持续更新**
+**chatGPT导航,大海浏览器官网,收录60个chatGPT,不要梯子**
 
 [https://www.dahai123.top/](https://www.dahai123.top/)
 
