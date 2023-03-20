@@ -15,8 +15,6 @@
 <div align="left"><img src="https://cdn.dahai123.top/dhb/pic/1_8_1t.jpg" width="40%"></div>
 仅支持android8以上手机
 
-喜欢知乎版评测,点这里,知乎需要登录才能看
-https://zhuanlan.zhihu.com/p/597687001
 
 
 >
