@@ -112,7 +112,7 @@ app快捷一键返回,比如一键返回微信,名称能编辑
 ## 5. 腾讯云安全检测: 0漏洞,0广告插件,0病毒
 
 
-<div align="left"><img src="https://cdn.dahai123.top/dhb/pic/1.1.7.png" width="40%"></div>
+<div align="left"><img src="https://cdn.dahai123.top/dhb/pic/1.1.8.png" width="40%"></div>
 
 
 **保护用户隐私**:
