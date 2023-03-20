@@ -20,14 +20,7 @@
 
 >
 
-
-
-
-大海浏览器官方版下载|123pan
-
-[https://www.123pan.com/s/Wa9bVv-ohQrh.html](https://www.123pan.com/s/Wa9bVv-ohQrh.html)
-
-*****
+ 
 
 ## 1. 左侧上划网页,右侧上划收藏夹
 
