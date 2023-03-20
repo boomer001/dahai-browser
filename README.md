@@ -15,13 +15,12 @@
 <div align="left"><img src="https://cdn.dahai123.top/dhb/pic/1_8_1t.jpg" width="40%"></div>
 仅支持android8以上手机
 
+ 
 
 
 >
 
-**chatGPT导航,大海浏览器官网,收录60个chatGPT,不要梯子**
 
-[https://www.dahai123.top/](https://www.dahai123.top/)
 
 
 大海浏览器官方版下载|123pan
