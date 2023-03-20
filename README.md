@@ -16,7 +16,7 @@
 仅支持android8以上手机
 
 喜欢知乎版评测,点这里,知乎需要登录才能看
-https://zhuanlan.zhihu.com/p/597687001
+https://zhuanlan.zhihu.com/p/615437581
 
 
 >
@@ -110,6 +110,10 @@ app快捷一键返回,比如一键返回微信,名称能编辑
 ****
 
 ## 5. 腾讯云安全检测: 0漏洞,0广告插件,0病毒
+
+
+<div align="left"><img src="https://cdn.dahai123.top/dhb/pic/1.1.7.png" width="40%"></div>
+
 
 **保护用户隐私**:
 > 不收集个人信息
