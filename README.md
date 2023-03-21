@@ -12,7 +12,7 @@
 
 (2021年的红米11pro, 330ms启动; 2019年的米8se, 500ms启动,)
 
-<div align="left"><img src="https://cdn.dahai123.top/dhb/pic/1_8_1t.jpg" width="40%"></div>
+<div align="left"><img src="https://cdn.dahai123.top/dhb/pic/1_10_2_540t.jpg" width="40%"></div>
 仅支持android8以上手机
 
 喜欢知乎版评测,点这里,知乎需要登录才能看
