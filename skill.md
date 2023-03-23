@@ -1,5 +1,9 @@
 # 大海浏览器使用技巧
 
+[大海浏览器使用指南](https://gitee.com/boomer001/dahai-browser/blob/master/README.md) 
+
+[大海浏览器下载](https://www.123pan.com/s/Wa9bVv-ohQrh.html)
+
 ## 网页手势操作
 
 浏览网页,单指能回桌面,双指网页滚动
