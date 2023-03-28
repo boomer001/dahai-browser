@@ -1,5 +1,7 @@
 # 大海浏览器使用技巧
 
+[chatGPT导航,收录60个chatGPT  https://www.dahai123.top/](https://www.dahai123.top)
+
 [大海浏览器使用指南  https://gitee.com/boomer001/dahai-browser/blob/master/README.md](https://gitee.com/boomer001/dahai-browser/blob/master/README.md)
 
 [大海浏览器下载  https://www.123pan.com/s/Wa9bVv-ohQrh.html](https://www.123pan.com/s/Wa9bVv-ohQrh.html)
