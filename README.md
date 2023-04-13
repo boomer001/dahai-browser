@@ -29,6 +29,7 @@ https://zhuanlan.zhihu.com/p/615437581
 大海浏览器官方版下载|123pan
 
 [https://www.123pan.com/s/Wa9bVv-ohQrh.html](https://www.123pan.com/s/Wa9bVv-ohQrh.html)
+[旧版app合集 https://www.123pan.com/s/Wa9bVv-waQrh.html](https://www.123pan.com/s/Wa9bVv-waQrh.html)
 
 [大海浏览器使用技巧](https://gitee.com/boomer001/dahai-browser/blob/master/skill.md#%E5%A4%A7%E6%B5%B7%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7)
 
