@@ -57,4 +57,12 @@
 
 ****
 
+## 锁定/解锁屏幕(since:1.2.18)
+
+	桌面长按弹出菜单,锁定屏幕后,桌面图标不能移动;
+
+<div align="left"><img src="	https://cdn.dahai123.top/dhb/pic/sdpm_t.png" width="40%"></div>
+
+****
+
 其他的开发好了,陆续放上来 20230327
