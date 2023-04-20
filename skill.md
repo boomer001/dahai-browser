@@ -1,18 +1,5 @@
 # 大海浏览器使用技巧
 
-[chatGPT导航,收录60个chatGPT  https://www.dahai123.top/](https://www.dahai123.top)
-
-[大海浏览器使用指南  https://gitee.com/boomer001/dahai-browser/blob/master/README.md](https://gitee.com/boomer001/dahai-browser/blob/master/README.md)
-
-[国内应用市场对个人APP开发者友好度评测](https://gitee.com/boomer001/dahai-browser/blob/master/app-market-evaluate.md) 
-记录一下上架的经历
-
-
-[大海浏览器下载  https://www.123pan.com/s/Wa9bVv-ohQrh.html](https://www.123pan.com/s/Wa9bVv-ohQrh.html)
-
-[旧版app合集 https://www.123pan.com/s/Wa9bVv-waQrh.html](https://www.123pan.com/s/Wa9bVv-waQrh.html)
-
-[更新日志](https://gitee.com/boomer001/dahai-browser/blob/master/changelog.md)
 
 ## chatGPT桌面快捷
 
@@ -76,5 +63,19 @@
 <div align="left"><img src="	https://cdn.dahai123.top/dhb/pic/sdpm_t.png" width="40%"></div>
 
 ****
+
+[chatGPT导航,收录60个chatGPT  https://www.dahai123.top/](https://www.dahai123.top)
+
+[大海浏览器使用指南  https://gitee.com/boomer001/dahai-browser/blob/master/README.md](https://gitee.com/boomer001/dahai-browser/blob/master/README.md)
+
+[国内应用市场对个人APP开发者友好度评测](https://gitee.com/boomer001/dahai-browser/blob/master/app-market-evaluate.md) 
+记录一下上架的经历
+
+
+[大海浏览器下载  https://www.123pan.com/s/Wa9bVv-ohQrh.html](https://www.123pan.com/s/Wa9bVv-ohQrh.html)
+
+[旧版app合集 https://www.123pan.com/s/Wa9bVv-waQrh.html](https://www.123pan.com/s/Wa9bVv-waQrh.html)
+
+[更新日志](https://gitee.com/boomer001/dahai-browser/blob/master/changelog.md)
 
 其他的开发好了,陆续放上来 20230327
