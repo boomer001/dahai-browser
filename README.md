@@ -119,8 +119,8 @@ app快捷一键返回,比如一键返回微信,名称能编辑
 <div align="left"><img src="https://cdn.dahai123.top/dhb/pic/1.1.8.png" width="40%"></div>
 
 
-## 6. 不收集个人信息
-不收集个人信息,保护用户隐私
+## 6. 不窥探个人隐私
+不窥探个人隐私
 
 不获取用户手机设备信息(IMEI、OAID、IMSI、MAC等信息).
 
