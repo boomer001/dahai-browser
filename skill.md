@@ -68,7 +68,7 @@
 
 	桌面长按弹出菜单,锁定屏幕后,桌面图标不能移动;
 
-<div align="left"><img src="	https://cdn.dahai123.top/dhb/pic/sdpm_t.png" width="40%"></div>
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/sdpm_t.png" width="40%"></div>
 
 ****
 
