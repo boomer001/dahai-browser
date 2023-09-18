@@ -12,7 +12,7 @@
 
 (2021年的红米11pro, 330ms启动; 2019年的米8se, 500ms启动,)
 
-<div align="left"><img src="https://cdn.dahai123.top/dhb/pic/1_10_2_540t.jpg" width="40%"></div>
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1_10_2_540t.jpg" width="40%"></div>
 仅支持android8以上手机
 
 喜欢知乎版评测,点这里,知乎需要登录才能看
@@ -46,14 +46,14 @@ https://zhuanlan.zhihu.com/p/615437581
 
 进入2, 3 界面后,不在区分左右上划,下划回到桌面1
 
-<div align="left"><img src="https://cdn.dahai123.top/dhb/pic/1-6-1.jpg" width="40%"></div>
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1-6-1.jpg" width="40%"></div>
 
 *****
 ## 2. 第二桌面
 
 **支持多桌面,桌面可添加app快捷/微件/网页快捷/合并文件夹**
 
-<div align="left"><img src="https://cdn.dahai123.top/dhb/pic/6-3.jpg" width="40%"></div>
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/6-3.jpg" width="40%"></div>
 
 >
 
@@ -71,7 +71,7 @@ app快捷一键返回,比如一键返回微信,名称能编辑
 
 文件夹容量可以设置, 目前最大81
 
-<div align="left"><img src="https://cdn.dahai123.top/dhb/pic/5-2.jpg" width="40%"></div>
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/5-2.jpg" width="40%"></div>
 
 >
 
@@ -79,7 +79,7 @@ app快捷一键返回,比如一键返回微信,名称能编辑
 
 本人就将常看网页放到一个文件夹内,一次打开全部.(文件夹内app只能打开最后一个,android系统的限制)
 
-<div align="left"><img src="https://cdn.dahai123.top/dhb/pic/2-5.jpg" width="40%"></div>
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/2-5.jpg" width="40%"></div>
 
 *****
 
@@ -89,7 +89,7 @@ app快捷一键返回,比如一键返回微信,名称能编辑
 
 **恢复已关**: 默认每次打开3个最近关闭的网页
 
-<div align="left"><img src="https://cdn.dahai123.top/dhb/pic/3-3_1080.jpg" width="40%"></div>
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/3-3_1080.jpg" width="40%"></div>
 
 *****
 
@@ -109,14 +109,13 @@ app快捷一键返回,比如一键返回微信,名称能编辑
 
 腾讯x5内核无图模式是失效的, 无图模式自动切换到android系统浏览器内核
 
-<div align="left"><img src="https://cdn.dahai123.top/dhb/pic/4-3_800.jpg" width="40%"></div>
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/4-3_800.jpg" width="40%"></div>
 
 ****
 
 ## 5. 腾讯云安全检测: 0漏洞,0广告插件,0病毒
 
-
-<div align="left"><img src="https://cdn.dahai123.top/dhb/pic/1.1.8.png" width="40%"></div>
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1.1.8.png" width="40%"></div>
 
 
 ## 6. 不窥探个人隐私
