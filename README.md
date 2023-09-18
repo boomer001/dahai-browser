@@ -1,5 +1,7 @@
 # 大海浏览器使用指南
 
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/Screenrecorder-2023-09-18-18-59-51-488%2000_00_00-00_00_30.gif" width="40%"></div>
+
 大海浏览器是一款android手机浏览器,
 
 **集成数个免费chatGPT**
