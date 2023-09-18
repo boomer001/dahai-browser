@@ -1,5 +1,6 @@
 # 大海浏览器使用技巧
 
+<div align="left"><img src="https://gitee.com/boomer001/dahai-browser/blob/master/%E9%A2%84%E8%A7%88%E8%A7%86%E9%A2%912023-09-18-18-59-51.gif" width="40%"></div>
 ## chatGPT桌面快捷
 
 > 每个新版，桌面都会放十几个速度快的chatGPT；如果是旧版升级，若没有重要数据，
