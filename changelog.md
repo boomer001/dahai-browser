@@ -1,9 +1,14 @@
 # 大海浏览器更新日志
 
-## 1.3.5
+## 1.3.6
+    可以保存网页
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/2-1.png" width="40%"></div>
 
+## 1.3.5
     1. 使用无广告版百度搜索
-    2. 可以切换/编辑多个不同搜索引擎,可以自添加搜索引擎
+    2. 可以切换/拖动/编辑多个不同搜索引擎,可以自添加搜索引擎
+
+<div align="left"><img src="https://cdn.dahai123.top/dhb/pic/2-2.png" width="40%"></div>
 
 ## 1.3.4
 

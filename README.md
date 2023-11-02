@@ -155,7 +155,15 @@ app快捷一键返回,比如一键返回微信,名称能编辑
 
 	桌面长按弹出菜单,锁定屏幕后,桌面图标不能移动;
 
-<div align="left"><img src="	https://cdn.dahai123.top/dhb/pic/sdpm_t.png" width="40%"></div>
+<div align="left"><img src="https://cdn.dahai123.top/dhb/pic/sdpm_t.png" width="40%"></div>
+
+## 8. 锁定/解锁屏幕(since:1.3.5)
+
+	1. 使用无广告版百度搜索
+    2. 可以切换/拖动/编辑多个不同搜索引擎,可以自添加搜索引擎
+
+<div align="left"><img src="https://cdn.dahai123.top/dhb/pic/2-2.png" width="40%"></div>
+
 
 
 ****
