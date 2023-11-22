@@ -3,6 +3,8 @@
 ## 1.4.2
 
     1. 计划开发弹窗广告拦截
+    2. miui14 searchbox 占2行,改成1行
+    3. 收藏夹/历史 添加记录不立即更新,需要切换才更新
 
 ## 1.4.1
 
@@ -13,12 +15,12 @@
     1. 搜索箱微件:桌面可以添加多个搜索箱微件,位置可变.搜索箱分有无功能导航键两种,这是小创新
          比如我就有3个, 第一页放百度, 第二页放bing ,bilibili搜索;
 
-<div align="left"><img src="https://cdn.dahai123.top/dhb/pic/1-7_1920t.jpg" width="40%"></div>
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1-8_1920t.jpg" width="40%"></div>
 
     2. 重搜:可快速切换搜索引擎,这是小创新. 
         红圈就是快速切换,重搜;比如对百度搜搜不满意, 快速切换用bing重搜,同时对比多个搜索引擎
 
-<div align="left"><img src="https://cdn.dahai123.top/dhb/pic/1-8t.jpg" width="40%"></div>
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1-8t.jpg" width="40%"></div>
 
     3. 优化流程,桌面启动不卡顿
 
@@ -33,7 +35,7 @@
     1. 使用无广告版百度搜索
     2. 可以切换/拖动/编辑多个不同搜索引擎,可以自添加搜索引擎
 
-<div align="left"><img src="https://cdn.dahai123.top/dhb/pic/2-2.png" width="40%"></div>
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/2-2.png" width="40%"></div>
 
 ## 1.3.4
 
