@@ -1,8 +1,8 @@
-# 大海浏览器使用指南
+# 大海桌面使用指南
 
 <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/%E6%BC%94%E7%A4%BA2023-09-18-19-37.gif" width="40%"></div>
 
-大海浏览器是一款android手机浏览器,
+大海桌面是一款android手机浏览器,
 
 **集成数个免费chatGPT**
 
@@ -23,18 +23,17 @@ https://zhuanlan.zhihu.com/p/615437581
 
 >
 
-**chatGPT导航,大海浏览器官网,收录60个chatGPT**
+**chatGPT导航,大海桌面官网,收录60个chatGPT**
 
 [https://www.dahai123.top/](https://www.dahai123.top/)
 
-
-大海浏览器官方版下载|123pan
+大海桌面官方版下载|123pan
 
 [https://www.123pan.com/s/Wa9bVv-ohQrh.html](https://www.123pan.com/s/Wa9bVv-ohQrh.html)
 
 [旧版app合集 https://www.123pan.com/s/Wa9bVv-waQrh.html](https://www.123pan.com/s/Wa9bVv-waQrh.html)
 
-[大海浏览器使用技巧](https://gitee.com/boomer001/dahai-browser/blob/master/skill.md#%E5%A4%A7%E6%B5%B7%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7)
+[大海桌面使用技巧](https://gitee.com/boomer001/dahai-browser/blob/master/skill.md#%E5%A4%A7%E6%B5%B7%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7)
 
 *****
 
@@ -87,8 +86,8 @@ app快捷一键返回,比如一键返回微信,名称能编辑
 
 ## 3. 网页浏览,自动拦截apk打开/下载的弹出框
 3.1 **自动拦截下载app**：
-  打开百度/bilibili等网站,会不断弹出定位/用app打开/下载app的弹框,大海浏览器会自动拦截;
-  确实需要下载app,左上三点菜单->允许打开app
+打开百度/bilibili等网站,会不断弹出定位/用app打开/下载app的弹框,大海桌面会自动拦截;
+确实需要下载app,左上三点菜单->允许打开app
 
 3.2 **一键静音**：
   多个网页有音视频播放,可一键静音,比如打开多个bilibili网页视频自动播放,太乱了,可一键静音
@@ -147,7 +146,7 @@ app快捷一键返回,比如一键返回微信,名称能编辑
 
 仅使用腾讯X浏览器内核,腾讯bugly收集崩溃日志,再无其他第三方SDK,不会被其他第三方SDK个人信息
 
-应用市场里随便一个APP,索要的权限,收集的用户信息,都比大海浏览器多
+应用市场里随便一个APP,索要的权限,收集的用户信息,都比大海桌面多
 
 ****
 
