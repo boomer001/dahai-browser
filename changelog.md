@@ -4,6 +4,10 @@
 
     1. 计划开发弹窗广告拦截
 
+## 1.4.3
+
+    1. fixbug:app不能自动更新
+
 ## 1.4.2
 
     1. miui14(android13) searchboxWidget 占2行,改成1行
