@@ -1,4 +1,4 @@
-# 大海桌面使用技巧
+# 大海浏览器使用技巧
 
 ## 左侧上划是网页,左侧上划收藏夹
 
@@ -9,7 +9,7 @@
 ## chatGPT桌面快捷
 
 > 每个新版，桌面都会放十几个速度快的chatGPT；如果是旧版升级，若没有重要数据，
-> 清空大海桌面的数据，重启后会自动将最新的chatGPT网站快捷放到桌面。 若某些网站比较好用，点右上角三点菜单，添加网页快捷到浏览器桌面。
+> 清空大海浏览器的数据，重启后会自动将最新的chatGPT网站快捷放到桌面。 若某些网站比较好用，点右上角三点菜单，添加网页快捷到浏览器桌面。
 > 几个图标可以放入一个文件夹，比如付费稳定的放一起；木弟子的放到一起；AI工具箱放一起；文案的放一起；
 
 ## '米'字手势操作(水平/垂直/45°,仅用一个拇指,解放双手)
@@ -81,12 +81,12 @@
 
 [chatGPT导航,收录60个chatGPT  https://www.dahai123.top/](https://www.dahai123.top)
 
-[大海桌面使用指南  https://gitee.com/boomer001/dahai-browser/blob/master/README.md](https://gitee.com/boomer001/dahai-browser/blob/master/README.md)
+[大海浏览器使用指南  https://gitee.com/boomer001/dahai-browser/blob/master/README.md](https://gitee.com/boomer001/dahai-browser/blob/master/README.md)
 
 [国内应用市场对个人APP开发者友好度评测](https://gitee.com/boomer001/dahai-browser/blob/master/app-market-evaluate.md)
 记录一下上架的经历
 
-[大海桌面下载  https://www.123pan.com/s/Wa9bVv-ohQrh.html](https://www.123pan.com/s/Wa9bVv-ohQrh.html)
+[大海浏览器下载  https://www.123pan.com/s/Wa9bVv-ohQrh.html](https://www.123pan.com/s/Wa9bVv-ohQrh.html)
 
 [旧版app合集 https://www.123pan.com/s/Wa9bVv-waQrh.html](https://www.123pan.com/s/Wa9bVv-waQrh.html)
 
