@@ -154,14 +154,27 @@ app快捷一键返回,比如一键返回微信,名称能编辑
 
 	桌面长按弹出菜单,锁定屏幕后,桌面图标不能移动;
 
-<div align="left"><img src="https://cdn.dahai123.top/dhb/pic/sdpm_t.png" width="40%"></div>
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/sdpm_t.png" width="40%"></div>
 
-## 8. 锁定/解锁屏幕(since:1.3.5)
+## 8. 多搜索框独立设置(since:1.4.0)
 
     1. 可以切换/拖动/编辑多个不同搜索引擎,可以自添加搜索引擎
 
-<div align="left"><img src="https://cdn.dahai123.top/dhb/pic/2-2.png" width="40%"></div>
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/2-2.png" width="40%"></div>
 
+    2. 一键切换搜索引擎,重搜
+
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1-8t.jpg" width="40%"></div>
+
+## 9.支持广告拦截,油猴脚本(since:1.5.0)
+
+    1. 支持广告拦截
+
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/adguard_t.png" width="40%"></div>
+
+    2. 支持油猴脚本
+
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/tmonkey_t.png" width="40%"></div>
 
 
 ****
