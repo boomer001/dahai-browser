@@ -167,7 +167,7 @@ app快捷一键返回,比如一键返回微信,名称能编辑
 
 <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/tmonkey_t.png" width="40%"></div>
 
-## 10.X5内核修复-数据备份恢复(sine:1.5.3)
+## 10.X5内核修复-数据备份恢复(sine:1.5.2)
 
     1. 桌面左上划进入网页界面->点右下三横
     2. 点X5修复->查看版本信息
