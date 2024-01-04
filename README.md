@@ -7,6 +7,7 @@
 * 1.桌面左侧上划是网页,网页下划2次退回桌面
 * 2.页面左右划是上一页/下一页;斜下划关闭,斜上划恢复已关;单指有冲突,用双指替代
 * 3.桌面可添加多个搜索框
+* 4.页面右下三横菜单, 开启广告拦截,油猴,x5内核修复,数据备份恢复
 
 *正文:
 大海浏览器是一款android手机桌面&浏览器,
@@ -20,20 +21,10 @@
 <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1_10_2_540t.jpg" width="40%"></div>
 仅支持android8以上手机
 
-喜欢知乎版评测,点这里,知乎需要登录才能看
-https://zhuanlan.zhihu.com/p/615437581
 
-**大海浏览器官网, 收录60个chatGPT**
-
-[https://www.dahai123.top/](https://www.dahai123.top/)
-
-大海浏览器官方版下载|123pan
-
-[https://www.123pan.com/s/Wa9bVv-ohQrh.html](https://www.123pan.com/s/Wa9bVv-ohQrh.html)
-
-[旧版app合集 https://www.123pan.com/s/Wa9bVv-waQrh.html](https://www.123pan.com/s/Wa9bVv-waQrh.html)
 
 [大海浏览器使用技巧](https://gitee.com/boomer001/dahai-browser/blob/master/skill.md#%E5%A4%A7%E6%B5%B7%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7)
+[changelog](https://gitee.com/boomer001/dahai-browser/blob/master/changelog.md)
 
 *****
 
@@ -176,7 +167,7 @@ app快捷一键返回,比如一键返回微信,名称能编辑
 
 <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/tmonkey_t.png" width="40%"></div>
 
-## 10.X5内核修复-数据备份恢复
+## 10.X5内核修复-数据备份恢复(sine:1.5.3)
 
     1. 桌面左上划进入网页界面->点右下三横
     2. 点X5修复->查看版本信息
@@ -204,7 +195,29 @@ app快捷一键返回,比如一键返回微信,名称能编辑
 
 ****
 
+** 关注我
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/qr_t.png" width="40%"></div>
+
+** 捐助支持
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/zanshang283t.png" width="40%"></div>
+
+## 官网
+
+喜欢知乎版评测,点这里,知乎需要登录才能看
+https://zhuanlan.zhihu.com/p/615437581
+
+**大海浏览器官网, 收录60个chatGPT**
+
+[https://www.dahai123.top/](https://www.dahai123.top/)
+
+大海浏览器官方版下载|123pan
+
+[https://www.123pan.com/s/Wa9bVv-ohQrh.html](https://www.123pan.com/s/Wa9bVv-ohQrh.html)
+
+[旧版app合集 https://www.123pan.com/s/Wa9bVv-waQrh.html](https://www.123pan.com/s/Wa9bVv-waQrh.html)
+
 ## 国内应用市场对个人APP开发者友好度评测
+
 记录一下自己上架的经历:
 
 https://gitee.com/boomer001/dahai-browser/blob/master/app-market-evaluate.md
