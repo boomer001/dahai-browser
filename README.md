@@ -176,7 +176,7 @@ app快捷一键返回,比如一键返回微信,名称能编辑
 
 <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/tmonkey_t.png" width="40%"></div>
 
-## 10. X5内核修复-数据备份恢复
+## 10.X5内核修复-数据备份恢复
 
     1. 桌面左上划进入网页界面->点右下三横
     2. 点X5修复->查看版本信息
@@ -184,7 +184,7 @@ app快捷一键返回,比如一键返回微信,名称能编辑
 
 <div align="left"><img src="https://cdn.dahai123.top/dhb/pic/10_7t.png" width="40%"></div>
 
-    3.备份数据
+    3.备份数据(无重要数据可跳过)
     4.清空app数据(等同卸载app重装)
     5.点击x5修复->安装线上内核
     安装完成后,重启app
