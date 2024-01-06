@@ -149,11 +149,14 @@ app快捷一键返回,比如一键返回微信,名称能编辑
 
 ## 8. 多搜索框独立设置(since:1.4.0)
 
-    1. 可以切换/拖动/编辑多个不同搜索引擎,可以自添加搜索引擎
+    1.长按桌面->微件->大海浏览器,可见两种搜索框，拖到桌面.可以添加数个搜索框
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1-8_1920t.jpg" width="40%"></div>
+
+    2. 可以切换/拖动/编辑多个不同搜索引擎,可以自添加搜索引擎
 
 <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/2-2.png" width="40%"></div>
 
-    2. 一键切换搜索引擎,重搜
+    3. 一键切换搜索引擎,重搜
 
 <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1-8t.jpg" width="40%"></div>
 
