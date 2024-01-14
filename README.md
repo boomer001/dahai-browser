@@ -23,8 +23,8 @@
 
 
 
-[大海浏览器使用技巧](https://gitee.com/boomer001/dahai-browser/blob/master/skill.md#%E5%A4%A7%E6%B5%B7%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7)
-[changelog](https://gitee.com/boomer001/dahai-browser/blob/master/changelog.md)
+[大海浏览器使用技巧](http://gitee.com/boomer001/dahai-browser/blob/master/skill.md#%E5%A4%A7%E6%B5%B7%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7)
+[changelog](http://gitee.com/boomer001/dahai-browser/blob/master/changelog.md)
 
 *****
 
@@ -174,7 +174,7 @@ app快捷一键返回,比如一键返回微信,名称能编辑
 
 (sine:1.5.2)
 
-[X5浏览器内核能更快打开网页,详解看这里](https://x5.tencent.com/docs/index.html)
+[X5浏览器内核能更快打开网页,详解看这里](http://x5.tencent.com/docs/index.html)
 
     首次启动大海浏览器,不要立即杀死app,留几分钟后台把x5内核安装完毕;
     查看x5内核是否安装成功, 设置->x5修复->查看版本信息,有数字,不是 0,(null),就是安装成功;
@@ -186,7 +186,7 @@ app快捷一键返回,比如一键返回微信,名称能编辑
     版本信息是0,说明X5内核没有载入成功
     直接执行步骤5,如果反复不能修复,执行步骤3,4,5;
 
-<div align="left"><img src="https://cdn.dahai123.top/dhb/pic/10_7t.png" width="40%"></div>
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/10_7t.png" width="40%"></div>
 
     3.备份数据(无重要数据可跳过)
     4.清空app数据(等同卸载app重装)
@@ -197,6 +197,18 @@ app快捷一键返回,比如一键返回微信,名称能编辑
     6.恢复数据
 
 ****
+
+## 11.强化网页文字长按弹出菜单
+
+   x5内核安装成功,才能看到强化网页文字长按弹出菜单.
+   搜索:和空白主页搜索一致
+   翻译:默认指向有道或欧陆,如果手机安装有道词典/欧陆词典,用户可指定会弹出词典的浮窗,十分方便
+   字词:倾向查中文,比如生僻字,也能查英文,用金山词霸;
+   更多:作为兜底,若还想用其他app,在这里找. 点圆圈,是置顶.
+   
+   <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/11_1t.jpg" width="40%"></div>
+   
+
 
 ## 付费模式
 
@@ -219,23 +231,23 @@ app快捷一键返回,比如一键返回微信,名称能编辑
 ## 官网
 
 喜欢知乎版评测,点这里,知乎需要登录才能看
-https://zhuanlan.zhihu.com/p/615437581
+http://zhuanlan.zhihu.com/p/615437581
 
 **大海浏览器官网, 收录60个chatGPT**
 
-[https://www.dahai123.top/](https://www.dahai123.top/)
+[http://www.dahai123.top/](http://www.dahai123.top/)
 
 大海浏览器官方版下载|123pan
 
-[https://www.123pan.com/s/Wa9bVv-ohQrh.html](https://www.123pan.com/s/Wa9bVv-ohQrh.html)
+[http://www.123pan.com/s/Wa9bVv-ohQrh.html](http://www.123pan.com/s/Wa9bVv-ohQrh.html)
 
-[旧版app合集 https://www.123pan.com/s/Wa9bVv-waQrh.html](https://www.123pan.com/s/Wa9bVv-waQrh.html)
+[旧版app合集 http://www.123pan.com/s/Wa9bVv-waQrh.html](http://www.123pan.com/s/Wa9bVv-waQrh.html)
 
 ## 国内应用市场对个人APP开发者友好度评测
 
 记录一下自己上架的经历:
 
-https://gitee.com/boomer001/dahai-browser/blob/master/app-market-evaluate.md
+http://gitee.com/boomer001/dahai-browser/blob/master/app-market-evaluate.md
 
 
  
