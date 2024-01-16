@@ -79,7 +79,7 @@
 
 ****
 
-[chatGPT导航,收录60个chatGPT  https://www.dahai123.top/](https://www.dahai123.top)
+[大海浏览器官网  https://www.dahai123.top/](https://www.dahai123.top)
 
 [大海浏览器使用指南  https://gitee.com/boomer001/dahai-browser/blob/master/README.md](https://gitee.com/boomer001/dahai-browser/blob/master/README.md)
 
@@ -93,3 +93,5 @@
 [更新日志](https://gitee.com/boomer001/dahai-browser/blob/master/changelog.md)
 
 其他的开发好了,陆续放上来 20230327
+
+20240111 已经上架各大应用市场
