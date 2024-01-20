@@ -1,6 +1,7 @@
 # 大海浏览器使用指南
 
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/%E6%BC%94%E7%A4%BA2023-09-18-19-37.gif" width="40%"></div>
+<!--<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/%E6%BC%94%E7%A4%BA2023-09-18-19-37.gif" width="40%"></div>-->
+<div align="left"><img src="https://cdn.dahai123.top/dhb/pic/%E5%8A%A8%E7%94%BBt.gif" width="40%"></div>
 
 **简明操作:**
 
