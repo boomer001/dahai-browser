@@ -4,7 +4,7 @@
 
 (sine:1.5.2)
 
-[腾讯X5浏览器内核能更快打开网页,详解看这里](https://x5.tencent.com/docs/index.html)
+[腾讯x5内核插件能更快打开网页,详解看这里](https://x5.tencent.com/docs/index.html)
 
     大海浏览器使用腾讯x5内核插件.没有安装成功x5内核插件,大海浏览也能正常使用.
     首次启动大海浏览器,不要立即杀死app,留几分钟后台把x5内核插件安装完毕;
