@@ -4,12 +4,12 @@
 * 1.桌面左侧上划是网页,网页下划2次退回桌面
 * 2.**米字手势**:页面左右划是上一页/下一页;斜下划关闭,斜上划恢复已关;**单指有冲突,用双指替代**,或者网页界面右上角三点->**本页关闭手势**
 * 3.桌面可添加多个搜索框/app/微件/网站
-* 4.页面右下三横菜单, 开启广告(adblock)拦截,油猴,x5内核插件修复,数据备份恢复
+* 4.页面右下三横菜单, 开启广告拦截,油猴,x5内核插件修复,数据备份恢复
 
 ******
 
-[www.dahai123.top](https://www.dahai123.top/)
-[大海浏览器使用技巧](http://gitee.com/boomer001/dahai-browser/blob/master/skill.md#%E5%A4%A7%E6%B5%B7%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7)
+[大海浏览器官网](https://www.dahai123.top/)
+[使用技巧](http://gitee.com/boomer001/dahai-browser/blob/master/skill.md#%E5%A4%A7%E6%B5%B7%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7)
 [更新日志](http://gitee.com/boomer001/dahai-browser/blob/master/changelog.md)
 
 
@@ -32,7 +32,7 @@
 >
 >    ●支持多桌面,文件夹合并
 >
->    ●支持adblock,油猴脚本
+>    ●支持广告拦截,油猴脚本
 >
 >    ●增强文字选择翻译
 >
@@ -96,7 +96,7 @@
 
 桌面仅放几个常用的app快捷,常访问的网站
 
-两个文件夹也能合并为一个, 4宫格/9宫格自动切换,快速整理桌面
+两个文件夹也能合并为一个, 4宫格/9宫格自动切换
 
 app快捷一键返回,比如一键返回微信,名称能编辑
 
@@ -196,9 +196,9 @@ app快捷一键返回,比如一键返回微信,名称能编辑
 
 <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1-8t.jpg" width="40%"></div>
 
-## 9.支持广告(adblock)拦截,油猴脚本(since:1.5.0)
+## 9.支持广告拦截,油猴脚本(since:1.5.0)
 
-    1. 支持广告(adblock)拦截
+    1. 支持广告拦截
 
 <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/adguard_t.png" width="40%"></div>
 
