@@ -8,7 +8,7 @@
 
 ******
 
-[大海浏览器官网](https://www.dahai123.top/)
+
 [大海浏览器使用技巧](http://gitee.com/boomer001/dahai-browser/blob/master/skill.md#%E5%A4%A7%E6%B5%B7%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7)
 [更新日志](http://gitee.com/boomer001/dahai-browser/blob/master/changelog.md)
 
