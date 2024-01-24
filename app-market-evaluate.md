@@ -2,7 +2,7 @@
 
 # 国内对个人APP开发者的大门是不是已经关闭了?
 
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/%E6%BC%94%E7%A4%BA2023-09-18-19-37.gif" width="40%"></div>
+<div align="left"><img src="https://cdn.dahai123.top/dhb/pic/%E5%8A%A8%E7%94%BBt.gif" width="40%"></div>
 
 喜欢知乎版点这里,知乎需要登录才能看
 https://zhuanlan.zhihu.com/p/608807504
