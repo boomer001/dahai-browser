@@ -1,8 +1,5 @@
 # 大海浏览器使用指南
 
-<!--<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/%E6%BC%94%E7%A4%BA2023-09-18-19-37.gif" width="40%"></div>-->
-<div align="left"><img src="https://cdn.dahai123.top/dhb/pic/%E5%8A%A8%E7%94%BBt.gif" width="40%"></div>
-
 ##  **10秒会新手教程:**
 * 1.桌面左侧上划是网页,网页下划2次退回桌面
 * 2.**米字手势**:页面左右划是上一页/下一页;斜下划关闭,斜上划恢复已关;**单指有冲突,用双指替代**,或者网页界面右上角三点->**本页关闭手势**
@@ -14,6 +11,11 @@
 [大海浏览器官网](https://www.dahai123.top/)
 [大海浏览器使用技巧](http://gitee.com/boomer001/dahai-browser/blob/master/skill.md#%E5%A4%A7%E6%B5%B7%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7)
 [更新日志](http://gitee.com/boomer001/dahai-browser/blob/master/changelog.md)
+
+
+
+<!--<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/%E6%BC%94%E7%A4%BA2023-09-18-19-37.gif" width="40%"></div>-->
+<div align="left"><img src="https://cdn.dahai123.top/dhb/pic/%E5%8A%A8%E7%94%BBt.gif" width="40%"></div>
 
 ******
 
