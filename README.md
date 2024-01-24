@@ -249,6 +249,7 @@ app快捷一键返回,比如一键返回微信,名称能编辑
 
 (sine:1.6.0)
 
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/11_1t.jpg" width="40%"></div>
 
 x5内核插件安装成功,才能看到增强文字选择弹窗.
 
@@ -260,7 +261,7 @@ x5内核插件安装成功,才能看到增强文字选择弹窗.
 >
 > 更多:作为兜底,若还想用其他app,在这里找. 点圆圈,是置顶.
 
-
+   <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/11_2t.jpg" width="40%"></div>
 
 
 ****
