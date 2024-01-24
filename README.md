@@ -8,7 +8,7 @@
 
 ******
 
-[www.dahai123.top](https://www.dahai123.top/)
+
 [大海浏览器使用技巧](http://gitee.com/boomer001/dahai-browser/blob/master/skill.md#%E5%A4%A7%E6%B5%B7%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7)
 [更新日志](http://gitee.com/boomer001/dahai-browser/blob/master/changelog.md)
 
@@ -43,9 +43,6 @@
 
 <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1_10_2_540t.jpg" width="40%"></div>
 仅支持android8以上手机
-
-
-
 
 
 *****
@@ -286,9 +283,8 @@ x5内核插件安装成功,才能看到强化文字选择菜单.
 喜欢知乎版评测,点这里,知乎需要登录才能看
 http://zhuanlan.zhihu.com/p/615437581
 
-**大海浏览器官网**
-
-[http://www.dahai123.top/](http://www.dahai123.top/)
+**大海浏览器**
+http://www.dahai123.top/
 
 大海浏览器官方版下载|123pan
 
