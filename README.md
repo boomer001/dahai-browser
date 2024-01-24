@@ -265,3 +265,41 @@ x5内核插件安装成功,才能看到增强文字选择弹窗.
 
 
 ****
+
+
+## 付费模式
+> 普通用户/收费用户都没有广告
+> 1. 普通用户不用登录注册,2个月试用期,所有功能都有.试用期后还能免费使用,只是桌面布局最大5*7,文件夹容量最大9,桌面仅1页,其他功能完全没有限制
+> 2. 付费用户:优惠期2年9.9元(原1年9.9元).会员期内,桌面布局M\*N不限,文件夹容量最大可达81,桌面可有多页,其他功能完全没有限制
+
+
+****
+
+** 关注我
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/qr_t.png" width="40%"></div>
+
+** 捐助支持
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/zanshang283t.png" width="40%"></div>
+
+## 官网
+
+喜欢知乎版评测,点这里,知乎需要登录才能看
+http://zhuanlan.zhihu.com/p/615437581
+
+**大海浏览器官网**
+
+[http://www.dahai123.top/](http://www.dahai123.top/)
+
+大海浏览器官方版下载|123pan
+
+[http://www.123pan.com/s/Wa9bVv-ohQrh.html](http://www.123pan.com/s/Wa9bVv-ohQrh.html)
+
+[旧版app合集 http://www.123pan.com/s/Wa9bVv-waQrh.html](http://www.123pan.com/s/Wa9bVv-waQrh.html)
+
+## 国内应用市场对个人APP开发者友好度评测
+
+记录一下自己上架的经历:
+
+http://gitee.com/boomer001/dahai-browser/blob/master/app-market-evaluate.md
+
+
