@@ -286,9 +286,6 @@ x5内核插件安装成功,才能看到增强文字选择弹窗.
 
 ## 官网
 
-喜欢知乎版评测,点这里,知乎需要登录才能看
-http://zhuanlan.zhihu.com/p/615437581
-
 **大海浏览器官网**
 
 [http://www.dahai123.top/](http://www.dahai123.top/)
