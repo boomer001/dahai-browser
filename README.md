@@ -251,5 +251,3 @@ app快捷一键返回,比如一键返回微信,名称能编辑
 
 <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/11_1t.jpg" width="40%"></div>
 
-x5内核插件安装成功,才能看到优化文字选择菜单.
-
