@@ -245,9 +245,3 @@ app快捷一键返回,比如一键返回微信,名称能编辑
 
 ****
 
-## 11.增强网页长按选择菜单
-
-(sine:1.6.0)
-
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/11_1t.jpg" width="40%"></div>
-
