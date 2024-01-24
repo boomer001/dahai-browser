@@ -183,6 +183,8 @@ app快捷一键返回,比如一键返回微信,名称能编辑
 
 <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/sdpm_t.png" width="40%"></div>
 
+****
+
 ## 8. 多搜索框独立设置(since:1.4.0)
 
 > 1.长按桌面->微件->大海浏览器,可见两种搜索框,拖到桌面,可以添加数个搜索框,满足多种搜索需求
@@ -195,3 +197,17 @@ app快捷一键返回,比如一键返回微信,名称能编辑
 > 3. 一键切换搜索引擎,重搜
 
 <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1-8t.jpg" width="40%"></div>
+
+****
+
+## 9.支持广告拦截,油猴脚本(since:1.5.0)
+
+    1. 支持广告拦截
+
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/adguard_t.png" width="40%"></div>
+
+    2. 支持油猴脚本
+
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/tmonkey_t.png" width="40%"></div>
+
+****
