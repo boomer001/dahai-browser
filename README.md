@@ -247,11 +247,6 @@ app快捷一键返回,比如一键返回微信,名称能编辑
 
 ##  增强文字选择弹窗
 
-(sine:1.6.0)
-
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/11_1t.jpg" width="40%"></div>
-
-
 
 
 
