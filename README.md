@@ -245,13 +245,13 @@ app快捷一键返回,比如一键返回微信,名称能编辑
 
 ****
 
-##  强化文字选择菜单
+##  增强文字选择弹窗
 
 (sine:1.6.0)
 
 <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/11_1t.jpg" width="40%"></div>
 
-x5内核插件安装成功,才能看到强化文字选择菜单.
+
 
 
 
