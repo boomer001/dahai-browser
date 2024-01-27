@@ -18,7 +18,7 @@
 
 
 
-<iframe src="http://cdn.dahai123.top/dhb/video/introduce.avi" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<iframe src="http://cdn.dahai123.top/dhb/video/introduce.mp4" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 
 ******
