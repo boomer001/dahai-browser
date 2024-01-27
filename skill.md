@@ -4,7 +4,7 @@
 
  	半秒启动无广告
 
-<div align="left"><img src="https://cdn.dahai123.top/dhb/pic/%E5%8A%A8%E7%94%BBt.gif" width="40%"></div>
+<div align="left"><img src="http://cdn.dahai123.top/dhb/video/introduce.gif" width="40%"></div>
 
 
 ## '米'字手势操作(水平/垂直/45°,仅用一个拇指,解放双手)
