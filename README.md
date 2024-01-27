@@ -17,15 +17,9 @@
 
 <!--<div align="left"><img src="https://cdn.dahai123.top/dhb/pic/%E5%8A%A8%E7%94%BBt.gif" width="40%"></div>-->
 
-<video muted autoplay="autoplay" loop="loop"  controls="controls" width="360" height="680" >
-	<source src="http://cdn.dahai123.top/dhb/video/introduce.mp4" type="video/mp4"></source>
+<video  src="http://cdn.dahai123.top/dhb/video/introduce.mp4" type="video/mp4" muted autoplay="autoplay" loop="loop"  controls="controls" width="360" height="680" >
+	你的浏览器不支持 <code>video</code> 标签。
 </video>
-
-
-![introduce](http://cdn.dahai123.top/dhb/video/introduce.mp4)
-
-<!--<iframe src="http://cdn.dahai123.top/dhb/video/introduce.mp4" width="640" height="360" frameborder="0" allowfullscreen></iframe>-->
-
 
 ******
 
