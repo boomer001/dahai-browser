@@ -15,7 +15,7 @@
 [使用技巧](http://gitee.com/boomer001/dahai-browser/blob/master/skill.md#%E5%A4%A7%E6%B5%B7%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7)
 [更新日志](http://gitee.com/boomer001/dahai-browser/blob/master/changelog.md)
 
-<!--<div align="left"><img src="https://cdn.dahai123.top/dhb/pic/%E5%8A%A8%E7%94%BBt.gif" width="40%"></div>-->
+<div align="left"><img src="https://cdn.dahai123.top/dhb/pic/%E5%8A%A8%E7%94%BBt.gif" width="40%"></div>
 
 <video  src="http://cdn.dahai123.top/dhb/video/introduce.mp4" type="video/mp4" muted autoplay="autoplay" loop="loop"  controls="controls" width="360" height="680" >
 	你的浏览器不支持 <code>video</code> 标签。
