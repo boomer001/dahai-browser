@@ -22,7 +22,7 @@
 </video>
 
 
-![introduce](file:http://cdn.dahai123.top/dhb/video/introduce.mp4)
+![introduce](http://cdn.dahai123.top/dhb/video/introduce.mp4)
 
 <!--<iframe src="http://cdn.dahai123.top/dhb/video/introduce.mp4" width="640" height="360" frameborder="0" allowfullscreen></iframe>-->
 
