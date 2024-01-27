@@ -18,7 +18,7 @@
     版本信息是0,说明x5内核插件没有载入成功
     直接执行步骤5,如果反复不能修复,执行步骤3,4,5;
 
-<div align="left"><img src="https://cdn.dahai123.top/dhb/pic/10_7t.png" width="40%"></div>
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/10_7t.png" width="40%"></div>
 
     3.备份数据(无重要数据可跳过)
     4.清空app数据(等同卸载app重装)
