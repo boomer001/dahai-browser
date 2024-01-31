@@ -1,4 +1,4 @@
-# 大海浏览器使用技巧
+# 小海浏览器使用技巧
 
 ## 左侧上划是网页,右侧上划收藏夹
 
@@ -75,14 +75,14 @@
 
 ****
 
-[大海浏览器官网  https://www.dahai123.top/](https://www.dahai123.top)
+[小海浏览器官网  https://www.dahai123.top/](https://www.dahai123.top)
 
-[大海浏览器使用指南  https://gitee.com/boomer001/dahai-browser/blob/master/README.md](https://gitee.com/boomer001/dahai-browser/blob/master/README.md)
+[小海浏览器使用指南  https://gitee.com/boomer001/dahai-browser/blob/master/README.md](https://gitee.com/boomer001/dahai-browser/blob/master/README.md)
 
 [国内应用市场对个人APP开发者友好度评测](https://gitee.com/boomer001/dahai-browser/blob/master/app-market-evaluate.md)
 记录一下上架的经历
 
-[大海浏览器下载  https://www.123pan.com/s/Wa9bVv-ohQrh.html](https://www.123pan.com/s/Wa9bVv-ohQrh.html)
+[小海浏览器下载  https://www.123pan.com/s/Wa9bVv-ohQrh.html](https://www.123pan.com/s/Wa9bVv-ohQrh.html)
 
 [旧版app合集 https://www.123pan.com/s/Wa9bVv-waQrh.html](https://www.123pan.com/s/Wa9bVv-waQrh.html)
 
