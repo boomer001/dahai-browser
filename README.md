@@ -8,6 +8,8 @@
 
 * 3.桌面可添加多个搜索框/app/微件/网站
 * 4.页面右下三横菜单, 开启广告拦截,油猴,x5内核插件修复,数据备份恢复
+* 5.一键切换搜索引擎,重搜
+  <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1-8t.jpg" width="40%"></div>
 
 ******
 
