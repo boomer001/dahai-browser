@@ -76,10 +76,6 @@
 
 ## 1.5.0
 
-    1. 支持广告拦截 
-
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/adguard_t.png" width="40%"></div>
-
     2. 支持油猴脚本
 
 <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/tmonkey_t.png" width="40%"></div>
