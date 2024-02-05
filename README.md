@@ -204,6 +204,14 @@ app快捷一键返回,比如一键返回微信,名称能编辑
 
 <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1-8t.jpg" width="40%"></div>
 
+> 4. 点击输入框,上方是剪贴板的url,下方是历史搜索记录;长按历史搜索记录是删除,点击清空是清除所有搜索记录
+
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1-13t.jpg" width="40%"></div>
+
+> 5. 搜索框输入文字,上方是与文字相关的收藏夹/历史中的网址,下方是搜索建议
+
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1-14t.jpg" width="40%"></div>
+
 ****
 
 ## 9.支持广告拦截,油猴脚本(since:1.5.0)
