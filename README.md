@@ -217,10 +217,8 @@ app快捷一键返回,比如一键返回微信,名称能编辑
 
 
 
-## 9.支持油猴脚本(since:1.5.0)
+## 9.支持油猴脚本,双语对照翻译(since:1.5.0)
 
-
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/adguard_t.png" width="40%"></div>
 
     2. 支持油猴脚本
 
