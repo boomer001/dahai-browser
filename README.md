@@ -126,6 +126,7 @@
 <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/6-3.jpg" width="40%"></div>
 
 >
+桌面第一屏连续右滑退出app
 
 桌面仅放几个常用的app快捷,常访问的网站
 
