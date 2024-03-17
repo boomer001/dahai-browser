@@ -11,4 +11,9 @@
 
 右下角 A 是文字识别; 点发大镜, 把白框发送给搜索引擎; 如果有台词,同时进行台词搜索
 
-<div align="left"><img src="https://cdn.dahai123.top/dhb/pic/7_2t.jpg" width="40%"></div>
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/7_2t.jpg" width="40%"></div>
+
+一般搜影视剧,默认打开的够用,搜动画把动画二次元的打开;
+
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/8_1t.jpg" width="40%"></div>
+https://cdn.dahai123.top/dhb/pic/1-8t.jpg

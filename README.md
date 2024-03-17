@@ -298,7 +298,7 @@ x5内核插件安装成功,才能看到增强文字选择弹窗.
 
 右下角 A 是文字识别; 点发大镜, 把白框发送给搜索引擎; 如果有台词,同时进行台词搜索
 
-<div align="left"><img src="https://cdn.dahai123.top/dhb/pic/7_2t.jpg" width="40%"></div>
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/7_2t.jpg" width="40%"></div>
 
 
 ## 付费模式
