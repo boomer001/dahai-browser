@@ -15,7 +15,7 @@
 
 一般搜影视剧,默认打开的够用,搜动画把动画二次元的打开;
 
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/8_1t.jpg" width="40%"></div>
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/tsp/tsp2_1t.jpg" width="40%"></div>
 
 稍等片刻, 你会找到影视名称,  
 有时会发现不同平台账号发同一个视频,解说词都一样, 原来这视频是从国外搬运的.  
