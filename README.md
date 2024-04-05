@@ -9,14 +9,11 @@
 * 3.桌面可添加多个搜索框/app/微件/网站
 * 4.页面右下三横菜单,开启油猴,x5内核插件修复,数据备份恢复
 * 5.设置->检查更新,升级到最新版
-* 6.一键切换搜索引擎,重搜
+* 6.[图搜片:以图和台词搜影视剧](https://gitee.com/boomer001/dahai-browser/blob/master/tusopiam.md)
+* 7.一键切换搜索引擎,重搜
   <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1-8t.jpg" width="40%"></div>
 
 ******
-
-
-[图搜片:以图和台词搜影视剧](https://gitee.com/boomer001/dahai-browser/blob/master/tusopiam.md)
-
 
 [小海浏览器官网](https://www.dahai123.top/)
 [使用技巧](http://gitee.com/boomer001/dahai-browser/blob/master/skill.md#%E5%A4%A7%E6%B5%B7%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7)
