@@ -12,6 +12,7 @@
 * 6.[图搜片:以图和台词搜影视剧](https://gitee.com/boomer001/dahai-browser/blob/master/tusopiam.md)
 * 7.一键切换搜索引擎,重搜
   <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1-8t.jpg" width="40%"></div>
+* 8.外文页面需要翻译,页面右下三横菜单,开启油猴->开启沉浸式翻译
 
 ******
 
