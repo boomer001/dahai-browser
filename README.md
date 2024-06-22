@@ -37,6 +37,8 @@
 
 >    ●桌面左侧上划是网页,右侧上划是收藏夹
 >
+>    ●可用20多个AI搜索避免安装20多个app
+>
 >    ●图搜片:用图片台词搜影视剧
 >
 >    ●毫秒启动无广告
@@ -113,6 +115,8 @@
 
 <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/2-2.png" width="40%"></div>
 
+可用20多个AI搜索,避免安装20多个app
+    <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/12_1_2t.jpg" width="40%"></div>
 > 3. 一键切换搜索引擎,重搜
 <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1-8t.jpg" width="40%"></div>
 
