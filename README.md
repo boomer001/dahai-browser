@@ -10,8 +10,12 @@
 * 4.外文网站,页面右上角三点->启动翻译,仅在当前页面启动翻译.点粉红钮或四指触屏,开始翻译;页面右下角三横->油猴脚本是所有网页默认启动脚本
 * 5.设置->检查更新,升级到最新版
 * 6.[图搜片:以图和台词搜影视剧](https://gitee.com/boomer001/dahai-browser/blob/master/tusopiam.md)
-* 7.可用20多个AI搜索,避免安装20多个app
+* 7.可同时访问多个AI搜索,一次获得更全面的结果;
+
+    可用20多个AI搜索,避免安装20多个app
+
     <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/12_1_2t.jpg" width="40%"></div>
+
 * 8.一键切换搜索引擎,重搜
   <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1-8t.jpg" width="40%"></div>
 
