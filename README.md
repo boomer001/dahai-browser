@@ -119,16 +119,16 @@
 
 <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/2-2.png" width="40%"></div>
 
-可用20多个AI搜索,避免安装20多个app
+> 3.可同时访问多个AI搜索,一次获得更全面的结果;可用20多个AI搜索,避免安装20多个app
     <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/12_1_2t.jpg" width="40%"></div>
-> 3. 一键切换搜索引擎,重搜
+> 4. 一键切换搜索引擎,重搜
 <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1-8t.jpg" width="40%"></div>
 
 
-> 4. 点击输入框,上方是剪贴板的url,下方是历史搜索记录;长按历史搜索记录是删除,点击清空是清除所有搜索记录
+> 5. 点击输入框,上方是剪贴板的url,下方是历史搜索记录;长按历史搜索记录是删除,点击清空是清除所有搜索记录
 <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1-14t.jpg" width="40%"></div>
 
-> 5. 搜索框输入文字,上方是与文字相关的收藏夹/历史中的网址,下方初始搜索历史,点击搜索,长按删除搜索历史;输入后显示搜索建议,点击搜索
+> 6. 搜索框输入文字,上方是与文字相关的收藏夹/历史中的网址,下方初始搜索历史,点击搜索,长按删除搜索历史;输入后显示搜索建议,点击搜索
 
 <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1-13t.jpg" width="40%"></div>
 
@@ -220,7 +220,7 @@ app快捷一键返回,比如一键返回微信,名称能编辑
 
 不获取用户手机设备信息(IMEI、OAID、IMSI、MAC等信息).
 
-仅使用腾讯X浏览器内核,腾讯bugly收集崩溃日志,再无其他第三方SDK,不会被其他第三方SDK个人信息
+仅使用腾讯X浏览器内核,腾讯bugly收集崩溃日志,再无其他第三方SDK,不会被其他第三方SDK收集个人信息
 
 应用市场里随便一个APP,索要的权限,收集的用户信息,都比小海浏览器多
 
