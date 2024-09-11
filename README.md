@@ -13,7 +13,7 @@
 
     <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/12_1_2t.jpg" width="40%"></div>
 
-* 8.一键切换搜索引擎,重搜
+* 7.一键切换搜索引擎,重搜
   <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1-8t.jpg" width="40%"></div>
 
 
