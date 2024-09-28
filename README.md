@@ -5,15 +5,14 @@
 * 1.桌面左侧上划是网页,点击网页底部**房子图标**退回桌面;空白页面下滑回到桌面;桌面右侧上划是收藏夹
 * 2.桌面可添加多个搜索框/app/微件/网站
 * 3.外文网站,页面右上角三点->启动翻译,仅在当前页面启动翻译.点粉红钮或四指触屏,开始翻译;页面右下角三横->油猴脚本是所有网页默认启动脚本
-* 4.**设置->检查更新,升级到最新版**
-* 5.[图搜片:以图和台词搜影视剧](https://gitee.com/boomer001/dahai-browser/blob/master/tusopiam.md)
-* 6.可用20多个AI搜索,避免安装20多个app;
+* 4.[图搜片:以图和台词搜影视剧](https://gitee.com/boomer001/dahai-browser/blob/master/tusopiam.md)
+* 5.可用20多个AI搜索,避免安装20多个app;
 
-    先检查 设置->开启AI搜索
+    **先检查 设置->开启AI搜索*
 
     <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/12_1_2t.jpg" width="40%"></div>
 
-* 7.一键切换搜索引擎,重搜
+* 6.一键切换搜索引擎,重搜
   <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1-8t.jpg" width="40%"></div>
 
 
