@@ -10,7 +10,7 @@
 * 4.[图搜片:以图和台词搜影视剧](https://gitee.com/boomer001/dahai-browser/blob/master/tusopiam.md)
 * 5.可用20多个AI搜索,避免安装20多个app;
 
-    **先检查 设置->开启AI搜索**
+    ~~先检查 设置->开启AI搜索~~
 
     <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/12_1_2t.jpg" width="40%"></div>
 
