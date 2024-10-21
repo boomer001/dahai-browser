@@ -18,6 +18,7 @@
 * 6.一键切换搜索引擎,重搜
   <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1-8t.jpg" width="40%"></div>
 
+* 成为VIP用户:,桌面点'收藏'->右上方点'账号',或网页页面,点右下角三横,点账号;
 
 ******
 
