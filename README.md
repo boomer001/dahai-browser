@@ -5,7 +5,7 @@
 ##  **请升级到2.1.21版以上,设置->检查更新**
 ##  **10秒会新手教程:**
 * 1.默认桌面上划都是网页;用户设置中可选左侧上划是网页,桌面右侧上划是收藏夹;点击网页底部**房子图标**退回桌面;空白页面下滑能回到桌面;
-    <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/11t.jpg" width="40%"></div>
+    <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/11t.jpg" width="80%"></div>
 * 2.桌面可添加多个搜索框/app/微件/网站
 * 3.外文网站,页面右上角三点->启动翻译,仅在当前页面启动翻译.点粉红钮或四指触屏,开始翻译;页面右下角三横->油猴脚本是所有网页默认启动脚本
 * 4.[图搜片:以图和台词搜影视剧](https://gitee.com/boomer001/dahai-browser/blob/master/tusopiam.md)
@@ -13,10 +13,10 @@
 
     ~~先检查 设置->开启AI搜索~~
 
-    <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/12_1_2t.jpg" width="40%"></div>
+    <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/12_1_2t.jpg" width="80%"></div>
 
 * 6.一键切换搜索引擎,重搜
-  <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1-8t.jpg" width="40%"></div>
+  <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1-8t.jpg" width="80%"></div>
 
 * 7.成为VIP用户:桌面点'收藏'->右上方点'账号',或网页页面,点右下角三横,点账号;
 *   <div align="left"><img src="https://cdn.dahai123.top/dhb/pic/13.jpg" width="80%"></div>
