@@ -27,7 +27,7 @@
 [使用技巧](http://gitee.com/boomer001/dahai-browser/blob/master/skill.md#%E5%A4%A7%E6%B5%B7%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7)
 [更新日志](http://gitee.com/boomer001/dahai-browser/blob/master/changelog.md)
 
-<div align="left"><img src="http://cdn.dahai123.top/dhb/video/introduce.gif" width="40%"></div>
+<div align="left"><img src="http://cdn.dahai123.top/dhb/video/introduce.gif" width="80%"></div>
 
 <!--<div align="left">-->
 <!--<video  src="http://cdn.dahai123.top/dhb/video/introduce.mp4"  muted autoplay="autoplay" loop="loop"  controls="controls" width="360" height="680" >-->
@@ -66,7 +66,7 @@
 
 华为mate30 253ms启动; 2021年的红米11pro, 330ms启动; 2019年的米8se, 500ms启动
 
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1_10_2_540t.jpg" width="40%"></div>
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1_10_2_540t.jpg" width="80%"></div>
 仅支持android8以上手机
 
 *****
@@ -81,7 +81,7 @@
 
 进入2, 3 界面后,不在区分左右上划,下划回到桌面1
 
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1-6-1.jpg" width="40%"></div>
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1-6-1.jpg" width="80%"></div>
 
 *****
 
@@ -108,24 +108,24 @@
 ## 3. 多搜索框独立设置(since:1.4.0)
 
 > 1.长按桌面->微件->小海浏览器,可见两种搜索框,拖到桌面,可以添加数个搜索框,满足多种搜索需求
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1-8_1920t.jpg" width="40%"></div>
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1-8_1920t.jpg" width="80%"></div>
 
 > 2. 可以切换/拖动/编辑多个不同搜索引擎,可以自添加搜索引擎
 
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/2-2.png" width="40%"></div>
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/2-2.png" width="80%"></div>
 
 > 3.可同时访问多个AI搜索,一次获得更全面的结果;可用20多个AI搜索,避免安装20多个app
-    <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/12_1_2t.jpg" width="40%"></div>
+    <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/12_1_2t.jpg" width="80%"></div>
 > 4. 一键切换搜索引擎,重搜
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1-8t.jpg" width="40%"></div>
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1-8t.jpg" width="80%"></div>
 
 
 > 5. 点击输入框,上方是剪贴板的url,下方是历史搜索记录;长按历史搜索记录是删除,点击清空是清除所有搜索记录
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1-14t.jpg" width="40%"></div>
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1-14t.jpg" width="80%"></div>
 
 > 6. 搜索框输入文字,上方是与文字相关的收藏夹/历史中的网址,下方初始搜索历史,点击搜索,长按删除搜索历史;输入后显示搜索建议,点击搜索
 
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1-13t.jpg" width="40%"></div>
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1-13t.jpg" width="80%"></div>
 
 ****
 
@@ -134,7 +134,7 @@
 
 **支持多桌面,桌面可添加app快捷/微件/网页快捷/合并文件夹**
 
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/6-3.jpg" width="40%"></div>
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/6-3.jpg" width="80%"></div>
 
 >
 桌面第一屏连续右滑退出app
@@ -151,7 +151,7 @@ app快捷一键返回,比如一键返回微信,名称能编辑
 
 文件夹容量可以设置, 目前最大81
 
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/5-2.jpg" width="40%"></div>
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/5-2.jpg" width="80%"></div>
 
 >
 
@@ -159,7 +159,7 @@ app快捷一键返回,比如一键返回微信,名称能编辑
 
 将常看网页放到一个文件夹内,一次打开全部.(文件夹内app只能打开最后一个,android系统的限制)
 
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/2-5.jpg" width="40%"></div>
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/2-5.jpg" width="80%"></div>
 
 *****
 
@@ -181,7 +181,7 @@ app快捷一键返回,比如一键返回微信,名称能编辑
 
 >  5 **多网页缩略图概览**：
   点击右下角数字框,会弹出多网页缩略图概览,可迅速切换网页,一键关闭左右侧网页,十分方便
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/3-3_1080.jpg" width="40%"></div>
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/3-3_1080.jpg" width="80%"></div>
 
 
 *****
@@ -202,7 +202,7 @@ app快捷一键返回,比如一键返回微信,名称能编辑
 
 腾讯x5内核插件无图模式是失效的, 无图模式自动切换到android系统浏览器内核
 
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/4-3_800.jpg" width="40%"></div>
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/4-3_800.jpg" width="80%"></div>
 
 ****
 
@@ -225,7 +225,7 @@ app快捷一键返回,比如一键返回微信,名称能编辑
 
 	桌面长按弹出菜单,锁定屏幕后,桌面图标不能移动;
 
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/sdpm_t.png" width="40%"></div>
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/sdpm_t.png" width="80%"></div>
 
 ****
 
@@ -236,7 +236,7 @@ app快捷一键返回,比如一键返回微信,名称能编辑
 
     2. 支持油猴脚本
 
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/tmonkey_t.png" width="40%"></div>
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/tmonkey_t.png" width="80%"></div>
 
 ****
 
@@ -258,7 +258,7 @@ app快捷一键返回,比如一键返回微信,名称能编辑
 版本信息是0,说明x5内核插件没有载入成功
 直接执行步骤5,如果反复不能修复,执行步骤3,4,5;
 
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/10_7t.png" width="40%"></div>
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/10_7t.png" width="80%"></div>
 
 > 3.备份数据(无重要数据可跳过)
 > 4.清空app数据(等同卸载app重装)
@@ -277,7 +277,7 @@ app快捷一键返回,比如一键返回微信,名称能编辑
 
 (sine:1.6.0)
 
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1a1_1t.jpg" width="40%"></div>
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1a1_1t.jpg" width="80%"></div>
 
 x5内核插件安装成功,才能看到增强文字选择弹窗.
 
@@ -289,7 +289,7 @@ x5内核插件安装成功,才能看到增强文字选择弹窗.
 >
 > **更多**:作为兜底,若还想用其他app,在这里找. 点圆圈,是置顶.
 
-   <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1a1_2t.jpg" width="40%"></div>
+   <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1a1_2t.jpg" width="80%"></div>
 
 
 ****
@@ -306,7 +306,7 @@ x5内核插件安装成功,才能看到增强文字选择弹窗.
 
 右下角 A 是文字识别; 点发大镜, 把白框发送给搜索引擎; 如果有台词,同时进行台词搜索
 
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/7_2t.jpg" width="40%"></div>
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/7_2t.jpg" width="80%"></div>
 
 
 ## 付费模式
@@ -318,10 +318,10 @@ x5内核插件安装成功,才能看到增强文字选择弹窗.
 ****
 
 ** 关注我
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/qr_t.png" width="40%"></div>
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/qr_t.png" width="80%"></div>
 
 ** 捐助支持
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/zanshang283t.png" width="40%"></div>
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/zanshang283t.png" width="80%"></div>
 
 ## 官网
 
