@@ -20,6 +20,9 @@
 * 7.一键切换搜索引擎,重搜
   <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1-8t.jpg" width="80%"></div>
 
+* 8.x5内核修复,选'安装线上内核'
+   <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/14_2t.jpg" width="80%"></div>
+
 
 ******
 
