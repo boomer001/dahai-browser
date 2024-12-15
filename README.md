@@ -23,6 +23,11 @@
 * 8.x5内核修复,选'安装线上内核'
    <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/14_2t.jpg" width="80%"></div>
 
+* 9.本页关闭手势:
+
+  横向滑动手势与网页内横向滚动冲突,可右上三点菜单键关闭本页手势
+   <div align="left"><img src="https://cdn.dahai123.top/dhb/pic/15_it.jpg" width="80%"></div>
+
 
 ******
 
