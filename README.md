@@ -3,45 +3,112 @@
 * 常见app使用中各种等待/植入广告,每次都能浪费你3~5秒生命;
 * 小海浏览器能毫秒启动无广告3M大,能用20多个AI搜索;节省生命,提高效率
 ##  **请升级到2.2.0版以上,设置->检查更新**
-##  **10秒会新手教程:**
-* 1.开通vip所有功能不限;成为VIP用户:桌面点'收藏'->右上方点'账号',或网页页面,点右下角三横,点账号;
-   <div align="left"><img src="https://cdn.dahai123.top/dhb/pic/13.jpg" width="80%"></div>
+## **10秒会新手教程:**
 
-  普通用户升级app后,清除app所有数据(相当于卸载重装),重新获得2个月vip体验期,体验所有新版app功能;缺点是以前的收藏数据会丢;
 
-* 2.默认桌面上划都是网页;用户设置中可选左侧上划是网页,桌面右侧上划是收藏夹;点击网页底部**房子图标**退回桌面;空白页面下滑能回到桌面;
-  
-    <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/11t.jpg" width="80%"></div>
-* 3.桌面可添加多个搜索框/app/微件/网站;
 
-   添加搜索框:长按桌面->微件->小海浏览器,可见两种搜索框,拖到桌面,可以添加数个搜索框,满足多种搜索需求;
+### 1.默认桌面上划都是网页
 
-* 4.点击左/右侧边弹出屏幕导航,方便2屏以上的屏幕快速切换,可给屏幕设置不同的图标/文字/颜色
+用户设置中可选左侧上划是网页,桌面右侧上划是收藏夹;点击网页底部**房子图标**退回桌面;空白页面下滑能回到桌面;
 
-   <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/5t.jpg" width="80%"></div>
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/11t.jpg" width="80%"></div>
 
-* 5.外文网站,页面右上角三点->启动翻译,仅在当前页面启动翻译.点粉红钮或四指触屏,开始翻译;页面右下角三横->油猴脚本是所有网页默认启动脚本
-* 6.[图搜片:以图和台词搜影视剧](https://gitee.com/boomer001/dahai-browser/blob/master/tusopiam.md)
-* 7.可用20多个AI搜索,避免安装20多个app;
-  
-    <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/12_1_2t.jpg" width="80%"></div>
-    
-* 8.一键切换搜索引擎,重搜
-  
-  <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1-8t.jpg" width="80%"></div>
-  
-* 9.x5内核修复,选'安装线上内核'
-  
-   <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/14_2t.jpg" width="80%"></div>
-   
-* 10.本页关闭手势:
+------
 
-  横向滑动手势与网页内横向滚动冲突,可右上三点菜单键关闭本页手势
-  
-   <div align="left"><img src="https://cdn.dahai123.top/dhb/pic/15_it.jpg" width="80%"></div>
+
+
+### 2.点击左/右侧边弹出屏幕导航
+
+方便2屏以上的屏幕快速切换,可给屏幕设置不同的图标/文字/颜色
+
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/5t.jpg" width="80%"></div>
+
+
+------
+
+### 3.桌面可添加多个搜索框/app/微件/网站;
+
+添加搜索框:长按桌面->微件->小海浏览器,可见两种搜索框,拖到桌面,可以添加数个搜索框,满足多种搜索需求;
+
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/sdpm_t.png" width="80%"></div>
+
+
+
+
+
+### 4.翻译:
+
+外文网站,页面右上角三点->启动翻译,仅在当前页面启动翻译.点粉红钮或四指触屏,开始翻译;页面右下角三横->油猴脚本是所有网页默认启动脚本
+
+------
+
+
+
+### 5.图搜片
+
+[图搜片:以图和台词搜影视剧](https://gitee.com/boomer001/dahai-browser/blob/master/tusopiam.md),点击详情
+
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/7_2t.jpg" width="80%"></div>
+
+
+------
+
+
+
+### 6.可用20多个AI搜索
+
+避免安装20多个app;
+
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/12_1_2t.jpg" width="80%"></div>
+
+
+
+------
+
+
+
+### 7.一键切换搜索引擎,重搜
+
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1-8t.jpg" width="80%"></div>
+
+
+
+------
+
+
+
+### 8.x5内核修复
+
+选'安装线上内核'
+
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/14_2t.jpg" width="80%"></div>
+
+
+
+------
+
+
+
+### 9.本页关闭手势:
+
+横向滑动手势与网页内横向滚动冲突,可右上三点菜单键关闭本页手势
+
+ <div align="left"><img src="https://cdn.dahai123.top/dhb/pic/15_it.jpg" width="80%"></div>
 
 
 ******
+
+### 10.开通vip所有功能不限
+
+成为VIP用户:桌面点'收藏'->右上方点'账号',或网页页面,点右下角三横,点账号;
+
+<div align="left"><img src="https://cdn.dahai123.top/dhb/pic/13.jpg" width="80%"></div>
+
+普通用户升级app后,清除app所有数据(相当于卸载重装),重新获得2个月vip体验期,体验所有新版app功能;缺点是以前的收藏数据会丢;
+
+
+
+------
 
 [小海浏览器官网](https://www.dahai123.top/)
 [使用技巧](http://gitee.com/boomer001/dahai-browser/blob/master/skill.md#%E5%A4%A7%E6%B5%B7%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7)
@@ -57,8 +124,10 @@
 
 ******
 
-* **正文**:
-小海浏览器是一款android手机桌面&浏览器,
+## **正文**:
+
+
+小海浏览器是一款android手机桌面&浏览器
 
 >    ●桌面左侧上划是网页,右侧上划是收藏夹
 >
