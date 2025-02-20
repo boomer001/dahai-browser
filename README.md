@@ -55,7 +55,7 @@
 
 ### 5.图搜片
 
-[图搜片:以图和台词搜影视剧](https://gitee.com/boomer001/dahai-browser/blob/master/tusopiam.md),点击详情,能截图发给图片搜索引擎搜索, 还能识别图片中的问题, 同时发给搜索引擎搜索,快速查找影视剧名,专门解决影视解说不留名的问题.当日识别花草树木动植物也是可以的.
+[图搜片:以图和台词搜影视剧](https://gitee.com/boomer001/dahai-browser/blob/master/tusopiam.md),点击详情,能自由截图发给图片搜索引擎搜索, 还能识别图片中的文字, 同时发给搜索引擎搜索,快速查找影视剧名,专门解决影视解说不留名的问题.当然,识别花草树木动植物也是可以的.
 
 <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/7_2t.jpg" width="80%"></div>
 
