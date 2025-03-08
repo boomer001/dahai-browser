@@ -12,6 +12,16 @@
 
 ## **10秒会新手教程:**
 
+###  开通vip所有功能不限
+
+成为VIP用户:桌面点**'收藏'**->点'账号',或网页界面,点右下角三横,点账号;不成为VIP也能正常使用
+
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/13_2t.jpg" width="80%"></div>
+<div align="left"><img src="https://cdn.dahai123.top/dhb/pic/13.jpg" width="80%"></div>
+
+用户清除app所有数据(相当于卸载重装),重新获得2个月vip体验期,体验所有新版app功能;缺点是以前的收藏数据会丢;
+
+
 
 
 ### 1.默认桌面上划都是网页
@@ -120,13 +130,6 @@
 
 ******
 
-### 11.开通vip所有功能不限
-
-成为VIP用户:桌面点'收藏'->右上方点'账号',或网页页面,点右下角三横,点账号;不成为VIP也能正常使用
-
-<div align="left"><img src="https://cdn.dahai123.top/dhb/pic/13.jpg" width="80%"></div>
-
-用户清除app所有数据(相当于卸载重装),重新获得2个月vip体验期,体验所有新版app功能;缺点是以前的收藏数据会丢;
 
 
 
