@@ -19,7 +19,7 @@
 <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/13_2t.jpg" width="80%"></div>
 <div align="left"><img src="https://cdn.dahai123.top/dhb/pic/13.jpg" width="80%"></div>
 
-用户清除app所有数据(相当于卸载重装),重新获得2个月vip体验期,体验所有新版app功能;缺点是以前数据会丢;
+
 
 
 
