@@ -63,9 +63,9 @@
 
 添加搜索框:**长按桌面-**>微件->小海浏览器,可见两种搜索框,拖到桌面,可以添加数个搜索框,满足多种搜索需求;
 
-可以添android的其他微件/app/文件夹/网站,到桌面不同的屏幕
-
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/sdpm_t.png" width="80%"></div>
+可以添android的其他微件/app/文件夹/网站,到桌面不同的屏幕,比如加入夸克的微件
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/13_3t.jpg" width="80%"></div>
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/sdpm_t.png" width="60%"></div>
 
 
 
