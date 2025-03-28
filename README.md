@@ -62,9 +62,9 @@
 
 ### 4.桌面可添其他app/微件/网站
 
-添加搜索框:**长按桌面->微件**,可添加其他微件,比如加入**夸克的微件**
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/13_3t.jpg" width="80%"></div>
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/sdpm_t.png" width="60%"></div>
+添加搜索框:**长按桌面->微件**,可添加其他微件,比如加入**哔哩哔哩,夸克的微件**
+<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/13_4_1080it.jpg" width="80%"></div>
+
 
 此外,其他app/文件夹/网站也能加到桌面不同的屏幕
 
