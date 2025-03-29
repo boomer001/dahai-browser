@@ -122,11 +122,15 @@
 
 
 
-### 10.本页关闭手势:
+### 10.添加网站到桌面/收藏夹/本页关闭手势:
+
+用户能自己添加网站到桌面,可指定添加到某屏,
 
 横向滑动手势与网页内横向滚动冲突, 可使用两指滑动,或右上三点菜单键关闭本页手势
 
- <div align="left"><img src="https://cdn.dahai123.top/dhb/pic/15_it.jpg" width="80%"></div>
+
+
+ <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/15_2t.jpg" width="80%"></div>
 
 ------
 
