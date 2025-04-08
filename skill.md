@@ -4,7 +4,7 @@
 
  	半秒启动无广告
 
-<div align="left"><img src="http://cdn.dahai123.top/dhb/video/introduce.gif" width="40%"></div>
+<div align="left"><img src="./video/introduce.gif" width="40%"></div>
 
 
 ## '米'字手势操作(水平/垂直/45°,仅用一个拇指,解放双手)
@@ -63,7 +63,7 @@
 
 腾讯x5内核插件无图模式是失效的, 无图模式自动切换到android系统浏览器内核
 
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/4-3_800.jpg" width="40%"></div>
+<div align="left"><img src="./pic/4-3_800.jpg" width="40%"></div>
 
 ****
 
@@ -71,7 +71,7 @@
 
 	桌面长按弹出菜单,锁定屏幕后,桌面图标不能移动;
 
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/sdpm_t.png" width="40%"></div>
+<div align="left"><img src="./pic/sdpm_t.png" width="40%"></div>
 
 ****
 

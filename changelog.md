@@ -198,7 +198,7 @@
 
     2. 支持油猴脚本
 
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/tmonkey_t.png" width="40%"></div>
+<div align="left"><img src="./pic/tmonkey_t.png" width="40%"></div>
 
 ## 1.4.3
 
@@ -219,12 +219,12 @@
     1. 搜索箱微件:桌面可以添加多个搜索箱微件,位置可变.搜索箱分有无功能导航键两种,这是小创新
          比如我就有3个, 第一页放百度, 第二页放bing ,bilibili搜索;
 
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1-8_1920t.jpg" width="40%"></div>
+<div align="left"><img src="./pic/1-8_1920t.jpg" width="40%"></div>
 
     2. 重搜:可快速切换搜索引擎,这是小创新. 
         红圈就是快速切换,重搜;比如对百度搜搜不满意, 快速切换用bing重搜,同时对比多个搜索引擎
 
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1-8t.jpg" width="40%"></div>
+<div align="left"><img src="./pic/1-8t.jpg" width="40%"></div>
 
     3. 优化流程,桌面启动不卡顿
 
@@ -232,13 +232,13 @@
 
     可以保存网页
 
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/2-1.png" width="40%"></div>
+<div align="left"><img src="./pic/2-1.png" width="40%"></div>
 
 ## 1.3.5
 
     1. 可以切换/拖动/编辑多个不同搜索引擎,可以自添加搜索引擎
 
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/2-2.png" width="40%"></div>
+<div align="left"><img src="./pic/2-2.png" width="40%"></div>
 
 ## 1.3.4
 
