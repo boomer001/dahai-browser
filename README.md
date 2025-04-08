@@ -17,7 +17,7 @@
 成为VIP用户:桌面点**'收藏'**->点'账号',或网页界面,点右下角三横,点账号;不成为VIP也能正常使用
 
 <div align="left"><img src="./pic/13_2t.jpg" width="80%"></div>
-<div align="left"><img src="https://cdn.dahai123.top/dhb/pic/13.jpg" width="80%"></div>
+<div align="left"><img src="./pic/13.jpg" width="80%"></div>
 
 
 
@@ -28,7 +28,7 @@
 
 用户设置中可选左侧上划是网页,桌面右侧上划是收藏夹;点击网页底部**房子图标**退回桌面;空白页面下滑能回到桌面;
 
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/11t.jpg" width="80%"></div>
+<div align="left"><img src="./pic/11t.jpg" width="80%"></div>
 
 ------
 
@@ -38,7 +38,7 @@
 
 点击左/右侧边弹出屏幕导航,方便多屏幕快速切换,可给屏幕设置不同的图标/文字/颜色
 
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/5t.jpg" width="80%"></div>
+<div align="left"><img src="./pic/5t.jpg" width="80%"></div>
 
 
 ------
@@ -54,7 +54,7 @@
 20多个AI搜索自由切换,包括deepseek, 避免安装20多个app , 几乎涵盖国内常见搜索.
 添加搜索框:**长按桌面-**>微件->小海浏览器,可见两种搜索框,拖到桌面,可以添加数个搜索框,满足多种搜索需求;
 
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/12_1_2t.jpg" width="80%"></div>
+<div align="left"><img src="./pic/12_1_2t.jpg" width="80%"></div>
 
 ------
 
@@ -63,7 +63,7 @@
 ### 4.桌面可添其他app/微件/网站
 
 添加搜索框:**长按桌面->微件**,可添加其他微件,比如加入**哔哩哔哩,夸克的微件**
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/13_4_1080it.jpg" width="80%"></div>
+<div align="left"><img src="./pic/13_4_1080it.jpg" width="80%"></div>
 
 
 此外,其他app/文件夹/网站也能加到桌面不同的屏幕
@@ -81,7 +81,7 @@
 
 16万条拦截规则.有些浏览器超1万拦截规则就卡顿了
 
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/3_1920t.jpg" width="80%"></div>
+<div align="left"><img src="./pic/3_1920t.jpg" width="80%"></div>
 
 
 
@@ -97,7 +97,7 @@
 
 [图搜片:以图和台词搜影视剧](https://gitee.com/boomer001/dahai-browser/blob/master/tusopiam.md),(点击详情),能自由截图发给图片搜索引擎搜索, 还能识别图片中的文字, 点**放大镜**,同时发给搜索引擎搜索,快速查找影视剧名,专门解决影视解说不留名的问题.当然,识别花草树木动植物也是可以的.
 
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/7_2t.jpg" width="80%"></div>
+<div align="left"><img src="./pic/7_2t.jpg" width="80%"></div>
 
 
 ------
@@ -106,7 +106,7 @@
 
 ### 8.一键切换搜索引擎,重搜
 
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1-8t.jpg" width="80%"></div>
+<div align="left"><img src="./pic/1-8t.jpg" width="80%"></div>
 
 
 
@@ -114,7 +114,7 @@
 
 小海浏览器速度快,省流量,防劫持,更安全.为了提高网页性能和安全性,选**安装线上内核**
 
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/14_2t.jpg" width="80%"></div>
+<div align="left"><img src="./pic/14_2t.jpg" width="80%"></div>
 
 [修复x5步骤详解](https://gitee.com/boomer001/dahai-browser/blob/master/x5fix.md)
 
@@ -130,7 +130,7 @@
 
 
 
- <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/15_2t.jpg" width="80%"></div>
+ <div align="left"><img src="./pic/15_2t.jpg" width="80%"></div>
 
 ------
 
@@ -145,10 +145,10 @@
 <!--[使用技巧](http://gitee.com/boomer001/dahai-browser/blob/master/skill.md#%E5%A4%A7%E6%B5%B7%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7)-->
 [更新日志](http://gitee.com/boomer001/dahai-browser/blob/master/changelog.md)
 
-<div align="left"><img src="http://cdn.dahai123.top/dhb/video/introduce.gif" width="80%"></div>
+<div align="left"><img src="./video/introduce.gif" width="80%"></div>
 
 <!--<div align="left">-->
-<!--<video  src="http://cdn.dahai123.top/dhb/video/introduce.mp4"  muted autoplay="autoplay" loop="loop"  controls="controls" width="360" height="680" >-->
+<!--<video  src="./video/introduce.mp4"  muted autoplay="autoplay" loop="loop"  controls="controls" width="360" height="680" >-->
 <!--	你的浏览器不支持 <code>video</code> 标签。-->
 <!--</video>-->
 <!--</div>-->
@@ -182,7 +182,7 @@
 
 华为mate30 253ms启动; 2021年的红米11pro, 330ms启动; 2019年的米8se, 500ms启动
 
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1_10_2_540t.jpg" width="80%"></div>
+<div align="left"><img src="./pic/1_10_2_540t.jpg" width="80%"></div>
 仅支持android8以上手机
 
 *****
@@ -197,7 +197,7 @@
 
 进入2, 3 界面后,不在区分左右上划,下划回到桌面1
 
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1-6-1.jpg" width="80%"></div>
+<div align="left"><img src="./pic/1-6-1.jpg" width="80%"></div>
 
 *****
 
@@ -224,24 +224,24 @@
 ## 3. 多搜索框独立设置(since:1.4.0)
 
 > 1.长按桌面->微件->小海浏览器,可见两种搜索框,拖到桌面,可以添加数个搜索框,满足多种搜索需求
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1-8_1920t.jpg" width="80%"></div>
+<div align="left"><img src="./pic/1-8_1920t.jpg" width="80%"></div>
 
 > 2. 可以切换/拖动/编辑多个不同搜索引擎,可以自添加搜索引擎
 
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/2-2.png" width="80%"></div>
+<div align="left"><img src="./pic/2-2.png" width="80%"></div>
 
 > 3.可同时访问多个AI搜索,一次获得更全面的结果;可用20多个AI搜索,避免安装20多个app
-    <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/12_1_2t.jpg" width="80%"></div>
+    <div align="left"><img src="./pic/12_1_2t.jpg" width="80%"></div>
 > 4. 一键切换搜索引擎,重搜
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1-8t.jpg" width="80%"></div>
+<div align="left"><img src="./pic/1-8t.jpg" width="80%"></div>
 
 
 > 5. 点击输入框,上方是剪贴板的url,下方是历史搜索记录;长按历史搜索记录是删除,点击清空是清除所有搜索记录
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1-14t.jpg" width="80%"></div>
+<div align="left"><img src="./pic/1-14t.jpg" width="80%"></div>
 
 > 6. 搜索框输入文字,上方是与文字相关的收藏夹/历史中的网址,下方初始搜索历史,点击搜索,长按删除搜索历史;输入后显示搜索建议,点击搜索
 
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1-13t.jpg" width="80%"></div>
+<div align="left"><img src="./pic/1-13t.jpg" width="80%"></div>
 
 ****
 
@@ -250,7 +250,7 @@
 
 **支持多桌面,桌面可添加app快捷/微件/网页快捷/合并文件夹**
 
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/6-3.jpg" width="80%"></div>
+<div align="left"><img src="./pic/6-3.jpg" width="80%"></div>
 
 >
 桌面第一屏连续右滑退出app
@@ -267,7 +267,7 @@ app快捷一键返回,比如一键返回微信,名称能编辑
 
 文件夹容量可以设置, 目前最大81
 
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/5-2.jpg" width="80%"></div>
+<div align="left"><img src="./pic/5-2.jpg" width="80%"></div>
 
 >
 
@@ -275,7 +275,7 @@ app快捷一键返回,比如一键返回微信,名称能编辑
 
 将常看网页放到一个文件夹内,一次打开全部.(文件夹内app只能打开最后一个,android系统的限制)
 
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/2-5.jpg" width="80%"></div>
+<div align="left"><img src="./pic/2-5.jpg" width="80%"></div>
 
 *****
 
@@ -297,7 +297,7 @@ app快捷一键返回,比如一键返回微信,名称能编辑
 
 >  5 **多网页缩略图概览**：
   点击右下角数字框,会弹出多网页缩略图概览,可迅速切换网页,一键关闭左右侧网页,十分方便
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/3-3_1080.jpg" width="80%"></div>
+<div align="left"><img src="./pic/3-3_1080.jpg" width="80%"></div>
 
 
 *****
@@ -308,7 +308,7 @@ app快捷一键返回,比如一键返回微信,名称能编辑
 
 不光自己没有植入广告,还自带超高速广告拦截器,反钓鱼挖矿等恶意脚本,16万条拦截规则.有些浏览器超1万拦截规则就卡顿了
 
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/3_1920t.jpg" width="80%"></div>
+<div align="left"><img src="./pic/3_1920t.jpg" width="80%"></div>
 
 
 
@@ -345,7 +345,7 @@ app快捷一键返回,比如一键返回微信,名称能编辑
 
 	桌面长按弹出菜单,锁定屏幕后,桌面图标不能移动;
 
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/sdpm_t.png" width="80%"></div>
+<div align="left"><img src="./pic/sdpm_t.png" width="80%"></div>
 
 ****
 
@@ -356,7 +356,7 @@ app快捷一键返回,比如一键返回微信,名称能编辑
 
     2. 支持油猴脚本
 
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/tmonkey_t.png" width="80%"></div>
+<div align="left"><img src="./pic/tmonkey_t.png" width="80%"></div>
 
 ****
 
@@ -376,7 +376,7 @@ app快捷一键返回,比如一键返回微信,名称能编辑
 
 (sine:1.6.0)
 
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1a1_1t.jpg" width="80%"></div>
+<div align="left"><img src="./pic/1a1_1t.jpg" width="80%"></div>
 
 x5内核插件安装成功,才能看到增强文字选择弹窗.
 
@@ -388,7 +388,7 @@ x5内核插件安装成功,才能看到增强文字选择弹窗.
 >
 > **更多**:作为兜底,若还想用其他app,在这里找. 点**圆圈,是置顶**.
 
-   <div align="left"><img src="http://cdn.dahai123.top/dhb/pic/1a1_2t.jpg" width="80%"></div>
+   <div align="left"><img src="./pic/1a1_2t.jpg" width="80%"></div>
 
 
 ****
@@ -405,7 +405,7 @@ x5内核插件安装成功,才能看到增强文字选择弹窗.
 
 右下角 A 是文字识别; 点发大镜, 把白框发送给搜索引擎; 如果有台词,同时进行台词搜索
 
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/7_2t.jpg" width="80%"></div>
+<div align="left"><img src="./pic/7_2t.jpg" width="80%"></div>
 
 
 
