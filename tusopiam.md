@@ -11,11 +11,11 @@
 
 右下角 A 是文字识别; 点发大镜, 把白框发送给搜索引擎; 如果有台词,同时进行台词搜索
 
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/7_2t.jpg" width="40%"></div>
+<div align="left"><img src="./pic/7_2t.jpg" width="40%"></div>
 
 一般搜影视剧,默认打开的够用,搜动画把动画二次元的打开;
 
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/tsp/tsp2_1t.jpg" width="40%"></div>
+<div align="left"><img src="./pic/tsp/tsp2_1t.jpg" width="40%"></div>
 
 稍等片刻, 你会找到影视名称,  
 有时会发现不同平台账号发同一个视频,解说词都一样, 原来这视频是从国外搬运的.  
@@ -23,10 +23,10 @@
 如果不能用google,百度识图又没搜到,看看yandex,虽然是俄文,但能自动翻译.  
 点击粉红图标或四指点击屏幕;如果看不到粉红图标,页面右上角三点->启动翻译
 
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/tsp/tsp3t.jpg" width="40%"></div>
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/tsp/tsp4t.jpg" width="40%"></div>
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/tsp/tsp4_2t.jpg" width="40%"></div>
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/tsp/tsp10t.jpg" width="40%"></div>
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/tsp/tsp5t.jpg" width="40%"></div>
+<div align="left"><img src="./pic/tsp/tsp3t.jpg" width="40%"></div>
+<div align="left"><img src="./pic/tsp/tsp4t.jpg" width="40%"></div>
+<div align="left"><img src="./pic/tsp/tsp4_2t.jpg" width="40%"></div>
+<div align="left"><img src="./pic/tsp/tsp10t.jpg" width="40%"></div>
+<div align="left"><img src="./pic/tsp/tsp5t.jpg" width="40%"></div>
 
 
