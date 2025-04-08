@@ -16,7 +16,7 @@
 
 成为VIP用户:桌面点**'收藏'**->点'账号',或网页界面,点右下角三横,点账号;不成为VIP也能正常使用
 
-<div align="left"><img src="http://cdn.dahai123.top/dhb/pic/13_2t.jpg" width="80%"></div>
+<div align="left"><img src="https://gitee.com/boomer001/dahai-browser/blob/master/pic/13_2t.jpg" width="80%"></div>
 <div align="left"><img src="https://cdn.dahai123.top/dhb/pic/13.jpg" width="80%"></div>
 
 
