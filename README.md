@@ -109,7 +109,11 @@ https://www.deepshare.top/
 
 ### 8.图搜片--专门解决影视解说不留片名问题
 
-[图搜片:以图和台词搜影视剧](https://gitee.com/boomer001/dahai-browser/blob/master/tusopiam.md),(点击详情),能自由截图发给图片搜索引擎搜索, 还能识别图片中的文字, 点**放大镜**,同时发给搜索引擎搜索,快速查找影视剧名,专门解决影视解说不留名的问题.当然,识别花草树木动植物也是可以的.
+[图搜片:以图和台词搜影视剧](https://gitee.com/boomer001/dahai-browser/blob/master/tusopiam.md),(点击详情),能自由截图发给图片搜索引擎搜索, 还能识别图片中的文字, 
+
+点**放大镜**,同时发给搜索引擎搜索,快速查找影视剧名,专门解决影视解说不留名的问题.
+
+当然,识别花草树木动植物也是可以的.
 
 <div align="left"><img src="./pic/7_2t.jpg" width="80%"></div>
 
@@ -131,7 +135,12 @@ https://www.deepshare.top/
 
 ###  10. 开通vip所有功能不限
 
+
+
 app没有任何广告,不收集隐私,VIP优惠期,一年6.6元;两年9.9元(娃哈哈哈~~,你笑了没?)
+
+
+
 成为VIP用户:桌面点**'收藏'**->点'账号',或网页界面,点右下角三横,点账号;不成为VIP也能正常使用
 
 <div align="left"><img src="./pic/13_2t.jpg" width="80%"></div>
