@@ -162,7 +162,7 @@ app没有任何广告,不收集隐私,VIP优惠期,一年6.6元;两年9.9元(娃
 <!--[使用技巧](http://gitee.com/boomer001/dahai-browser/blob/master/skill.md#%E5%A4%A7%E6%B5%B7%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7)-->
 [更新日志](http://gitee.com/boomer001/dahai-browser/blob/master/changelog.md)
 
-<div align="left"><img src="./video/introduce.gif" width="80%"></div>
+
 
  
 
@@ -194,8 +194,6 @@ app没有任何广告,不收集隐私,VIP优惠期,一年6.6元;两年9.9元(娃
 >    ●简单/直接/方便/小,apk仅3M
 
 华为mate30 253ms启动; 2021年的红米11pro, 330ms启动; 2019年的米8se, 500ms启动
-
-<div align="left"><img src="./pic/1_10_2_540t.jpg" width="80%"></div>
 仅支持android8以上手机
 
 *****
@@ -210,7 +208,7 @@ app没有任何广告,不收集隐私,VIP优惠期,一年6.6元;两年9.9元(娃
 
 进入2, 3 界面后,不在区分左右上划,下划回到桌面1
 
-<div align="left"><img src="./pic/1-6-1.jpg" width="80%"></div>
+
 
 *****
 
@@ -371,42 +369,10 @@ app快捷一键返回,比如一键返回微信,名称能编辑
 
 <div align="left"><img src="./pic/tmonkey_t.png" width="80%"></div>
 
-****
-
-## 10.x5内核插件修复-数据备份恢复
-
-(sine:1.5.2)
-
-
-
-[修复x5步骤详解](https://gitee.com/boomer001/dahai-browser/blob/master/x5fix.md)
-
-
 
 ****
 
-##  11 增强文字选择弹窗
-
-(sine:1.6.0)
-
-<div align="left"><img src="./pic/1a1_1t.jpg" width="80%"></div>
-
-x5内核插件安装成功,才能看到增强文字选择弹窗.
-
-> **搜索**:和空白主页搜索一致
->
-> **翻译**:默认指向有道或欧陆,如果手机安装有道词典/欧陆词典,用户可指定,会弹出词典的浮窗,十分方便
->
-> **字词**:主查汉字,比如生僻字,也能查英文,用金山词霸;
->
-> **更多**:作为兜底,若还想用其他app,在这里找. 点**圆圈,是置顶**.
-
-   <div align="left"><img src="./pic/1a1_2t.jpg" width="80%"></div>
-
-
-****
-
-##  12 图搜片
+##  10 图搜片
 
 (sine:2.0.0)
 
