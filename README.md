@@ -24,7 +24,9 @@ https://www.dahai123.top/ 官网
 多个搜索自由切换,包括deepseek, 避免安装/切换20多个app , 几乎涵盖国内常见搜索.
 添加搜索框:**长按桌面-**>微件->小海浏览器,可见两种搜索框,拖到桌面,可以添加数个搜索框,满足多种搜索需求;
 
-<div align="left"><img src="./pic/17_2t.jpg" width="80%"></div>
+<div align="left"><img src="./pic/19_1t.jpg" width="80%"></div>
+<div align="left"><img src="./pic/21_1t.jpg" width="80%"></div>
+<div align="left"><img src="./pic/20_1t.jpg" width="80%"></div>
 
 ------
 
