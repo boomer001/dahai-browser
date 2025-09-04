@@ -367,7 +367,7 @@ app快捷一键返回,比如一键返回微信,名称能编辑
 
     2. 支持油猴脚本
 
-<div align="left"><img src="./pic/22t.png" width="80%"></div>
+<div align="left"><img src="./pic/22t.jpg" width="80%"></div>
 
 
 ****
